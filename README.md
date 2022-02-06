@@ -43,3 +43,8 @@ Cliquer sur `New Post`
 
 ![image](https://user-images.githubusercontent.com/31020571/152686977-925a7ab1-7774-44e9-840a-0666be5099a9.png)
 
+### Arreter les conteneurs
+
+```console
+docker-compose stop
+```
