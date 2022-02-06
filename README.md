@@ -9,6 +9,9 @@ Ce tutoriel va vous expliquer commencer executer mon projet API Docker avec dock
     [Install Docker Desktop](https://www.docker.com/get-started)
   - Linux: [Install Docker](https://www.docker.com/get-started) and then
     [Docker Compose](https://github.com/docker/compose)
+ - Telecharger mon repo
+   - 
+
     
 ### Executer le docker compose
 
