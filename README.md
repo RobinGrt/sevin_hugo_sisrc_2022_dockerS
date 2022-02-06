@@ -18,3 +18,11 @@ Qui permet de lancer le fichier `docker-compose.yml'
 ```console
 docker-compose up -d
 ```
+### Se connecter a l'API
+
+Nous allons nous connecter sur le frontend de l'application
+
+
+```console
+http://localhost:3000
+```
