@@ -1,4 +1,4 @@
-## Projet API REACT Docker Hugo Sevin
+## Projet API REACT Docker Hugo 
 
 Ce tutoriel va vous expliquer commencer executer mon projet API Docker avec docker compose.
 
