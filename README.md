@@ -19,7 +19,7 @@ gh repo clone bysnoozy/sevin_hugo_sisrc_2022_dockerS
 ### Executer le docker compose
 
 Dans un premier temps nous allons executer la commande ci-dessous 
-Qui permet de lancer le fichier `docker-compose.yml'
+Qui permet de lancer le fichier `docker-compose.yml`
 
 ```console
 docker-compose up -d
