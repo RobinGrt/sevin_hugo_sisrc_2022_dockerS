@@ -32,3 +32,8 @@ http://localhost:3000
 Une fois connecté cliquer en haut a droite sur Sign UP
 
 ![image](https://user-images.githubusercontent.com/31020571/152686770-3b0d43cf-532f-4faa-9fdf-85b784608fac.png)
+
+Ensuite nous allons nous connecter via le bouton Login
+![image](https://user-images.githubusercontent.com/31020571/152686818-293975a7-639a-4917-bf69-07d57091969e.png)
+
+
