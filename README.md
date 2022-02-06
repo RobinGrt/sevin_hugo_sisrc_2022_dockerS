@@ -9,10 +9,13 @@ Ce tutoriel va vous expliquer commencer executer mon projet API Docker avec dock
     [Install Docker Desktop](https://www.docker.com/get-started)
   - Linux: [Install Docker](https://www.docker.com/get-started) and then
     [Docker Compose](https://github.com/docker/compose)
- - Telecharger mon repo
-   - 
-
     
+ - Telecharger mon repo
+ 
+ ```console
+gh repo clone bysnoozy/sevin_hugo_sisrc_2022_dockerS
+```
+   
 ### Executer le docker compose
 
 Dans un premier temps nous allons executer la commande ci-dessous 
