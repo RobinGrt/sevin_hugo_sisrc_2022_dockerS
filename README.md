@@ -27,3 +27,8 @@ Depuis un navigateur web taper :
 ```console
 http://localhost:3000
 ```
+### Creation de compte et Connexion
+
+Une fois connecté cliquer en haut a droite sur Sign UP
+
+![image](https://user-images.githubusercontent.com/31020571/152686770-3b0d43cf-532f-4faa-9fdf-85b784608fac.png)
